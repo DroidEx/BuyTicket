@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BuyTicket</string>
+
+    <string name="init_txt">未訂票</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">秀威影城</string>
+    <string-array name="theater">
+        <item>台北影城</item>
+        <item>台中影城</item>
+        <item>台南影城</item>
+        <item>高雄影城</item>
+    </string-array>
+    <string-array name="movies">
+        <item>高年級實習生</item>
+        <item>我的少女時代</item>
+        <item>天菜大廚</item>
+        <item>海角七號</item>
+    </string-array>
+
+    <string-array name="people">
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+
+
+</resources>
